@@ -11,8 +11,6 @@ A Fabric Spark notebook that scans Microsoft Fabric Notebook definitions for pot
 | File | Description |
 |------|-------------|
 | `fabric_exfil_scanner_notebook.ipynb` | Fabric Spark notebook. Reads from a Lakehouse Files area and writes findings to a Delta table. |
-| `sample/` | Sample Fabric notebook definitions used for testing and validation. |
-
 ---
 
 ## Detection Capabilities
